@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MudBlazorWebApp2", "MudBlazorWebApp2\MudBlazorWebApp2\MudBlazorWebApp2.csproj", "{B3417D10-1F1E-48B5-9CDA-19C8E1846F56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MudBlazorWebApp2.Client", "MudBlazorWebApp2\MudBlazorWebApp2.Client\MudBlazorWebApp2.Client.csproj", "{ACD3575F-C2C3-4371-B272-FB396D1763EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3417D10-1F1E-48B5-9CDA-19C8E1846F56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3417D10-1F1E-48B5-9CDA-19C8E1846F56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3417D10-1F1E-48B5-9CDA-19C8E1846F56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3417D10-1F1E-48B5-9CDA-19C8E1846F56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACD3575F-C2C3-4371-B272-FB396D1763EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD3575F-C2C3-4371-B272-FB396D1763EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD3575F-C2C3-4371-B272-FB396D1763EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD3575F-C2C3-4371-B272-FB396D1763EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B38602B-3A83-46DF-A568-037793A70A9B}
+	EndGlobalSection
+EndGlobal
